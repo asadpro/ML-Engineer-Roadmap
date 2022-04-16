@@ -129,4 +129,3 @@ Discord link: https://discord.gg/r42Kbuk  <-- On this you will find a partner fi
 ### Following discipline and not giving up
 
 Learning coding, especially when you are new, can get frustrating at times. Every good programmer has gone through this pain so if you are facing issues, don't start thinking you are not smart and coding is not your thing. You need to have lot of patience. When you come from non coding background, thinking in terms of coding is a big shift in the mind paradigm hence it can take some time before it starts clicking you.
-
